@@ -1,0 +1,15 @@
+html{
+    padding: 0;
+    margin: 0;
+    box-shadow: 0;
+   
+}
+
+.logo{
+    margin: auto;
+    border: 20rem;   
+    display: flex;
+    justify-content: center;
+    font-weight: 1.5rem;
+    background: #00FFFF;   
+}
