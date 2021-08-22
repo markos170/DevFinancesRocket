@@ -217,6 +217,7 @@ td.expense{
     justify-content: center;
     opacity: 0;
     visibility: hidden;
+    z-index: 999;
 }
 
 .modal {
@@ -224,6 +225,7 @@ td.expense{
     padding: 2.4rem;
     position: relative;
     z-index: 1;
+   
 }
 
 /*---form--*/
@@ -269,6 +271,7 @@ footer{
     padding: 4rem 0 2rem;
     color: var(--dark-blue);
     opacity: 0.8;
+    
 
 }
 
